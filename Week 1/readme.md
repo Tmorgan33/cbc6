@@ -18,7 +18,7 @@
     - what does CRUD stand for
 - navigate fs
 - CRUD fs
-    - i.e. `cd, dir, mkdir, nano, ls, touch, echo, cat`
+    - i.e. `touch echo rm pwd cd ls tab mkdir rmdir rm -rf cat nano`
 
 #### Editor (VS Code)
 - fs manipulation with VS Code
@@ -33,8 +33,8 @@
 
 ## Exercise
 *Complete using CLI*
-1. Make a directory on your Desktop folder and name it something like `cbc-6`.
-2. Navigate in that folder and create another folder and name it something like first web project.
+1. Make a directory on your Desktop folder and name it `cbc6`.
+2. Navigate in that folder and create another folder and name it `first_project`.
 2. In that folder create a file called something like `hey-there.txt`
 3. Open that file and add some text
 
