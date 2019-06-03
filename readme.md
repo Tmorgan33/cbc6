@@ -1,4 +1,4 @@
-![The Clubhouse logo](./images/theclubhouse.png)
+![](./images/theclubhouse.png)
 # Course Schedule:
 3 Jun - 23 Aug Class
 
@@ -6,9 +6,9 @@
 26 Aug - 30 Aug
 
 # Contact Information:
-Slack: @theShoe
-Email: schuster@theclubhou.se
-cell: 714-381-6006
+- Slack: @theShoe
+- Email: schuster@theclubhou.se
+- cell: 714-381-6006
 
 # Rubric
 *Homework/classwork will be graded on four criteria:*
